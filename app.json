@@ -1,0 +1,8 @@
+{
+    "name": "xavierhale.github.io",
+    "description": "This is xavierhale.github.io, a fork of 3kho.github.io",
+    "repository": "https://github.com/3kh0/3kh0.github.io",
+    "logo": "https://github.com/fluidicon.png",
+    "keywords": ["unblocked games", "3kh0"],
+    "buildpacks": [{"url": "https://github.com/heroku/heroku-buildpack-static"}]
+}
